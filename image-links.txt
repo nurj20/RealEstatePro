@@ -1,0 +1,105 @@
+bathroom: - download and rename as bath1,bath2,...
+--------
+https://www.pexels.com/photo/photo-of-a-bathroom-1909791/
+https://www.pexels.com/photo/white-towel-on-gray-steel-bar-342800/
+https://www.pexels.com/photo/photo-of-a-bathroom-2988865/
+https://www.pexels.com/photo/white-bathroom-interior-1454804/
+https://www.pexels.com/photo/oval-mirror-near-toilet-bowl-1910472/
+https://www.pexels.com/photo/architectural-photography-of-toilet-1571462/
+https://www.pexels.com/photo/white-ceramic-bathtub-near-white-ceramic-bathtub-3288104/
+https://www.pexels.com/photo/white-ceramic-bathtub-beside-clear-glass-wall-1358912/
+https://www.pexels.com/photo/white-bathtub-on-white-tile-bathroom-near-brown-framed-clear-glass-window-105934/
+https://www.pexels.com/photo/white-bathtub-in-bathroom-1571461/
+https://www.pexels.com/photo/white-water-closet-in-bathroom-262005/
+https://www.pexels.com/photo/photo-of-a-bathroombathroom-3965521/
+https://www.pexels.com/photo/modern-bathroom-interior-with-freestanding-tub-6207947/
+https://www.pexels.com/photo/photo-of-bathub-near-window-3935336/
+https://www.pexels.com/photo/bathroom-interior-with-toilet-near-bathtub-with-shower-near-cupboard-6487944/
+https://www.pexels.com/photo/modern-bathroom-interior-with-panoramic-window-6265831/
+
+kitchen - download and rename as kitchen1,kitchen2,...
+-------
+https://www.pexels.com/photo/kitchen-and-dining-area-1080721/
+https://www.pexels.com/photo/chopping-boards-near-oven-under-hood-2062426/
+https://www.pexels.com/photo/white-wooden-cupboards-2724749/
+https://www.pexels.com/photo/kitchen-with-furniture-and-appliances-2724748/
+https://www.pexels.com/photo/white-wooden-kitchen-cabinet-1599791/
+https://www.pexels.com/photo/brown-and-white-wooden-kitchen-island-280232/
+https://www.pexels.com/photo/white-kitchen-cabinet-94865/
+https://www.pexels.com/photo/four-brown-wooden-chairs-2635038/
+https://www.pexels.com/photo/kitchen-island-2089698/
+https://www.pexels.com/photo/kitchen-island-and-barstools-534151/
+https://www.pexels.com/photo/rectangular-white-wooden-dining-table-with-six-chairs-set-276554/
+https://www.pexels.com/photo/stainless-steel-refrigerator-beside-white-kitchen-cabinet-2343467/
+https://www.pexels.com/photo/rectangular-white-wooden-dining-table-with-six-chairs-set-276554/
+https://www.pexels.com/photo/rectangular-white-island-table-in-kitchen-2398375/
+
+Rooms - download and rename as room1, room2...
+-----
+https://www.pexels.com/photo/photo-of-bedroom-1454806/
+https://www.pexels.com/photo/white-bed-comforter-during-daytime-90317/
+https://www.pexels.com/photo/upholstered-bed-near-cabinet-262048/
+https://www.pexels.com/photo/bedroom-2631746/
+https://www.pexels.com/photo/black-and-grey-bedspread-on-bed-and-pillow-164595/
+https://www.pexels.com/photo/white-bed-cover-near-wall-279746/
+https://www.pexels.com/photo/person-showing-bedroom-interior-237371/
+https://www.pexels.com/photo/white-throw-pillow-on-bed-271743/
+https://www.pexels.com/photo/room-with-bed-and-wooden-floor-1743229/
+https://www.pexels.com/photo/white-and-black-desk-beside-bed-and-window-439227/
+https://www.pexels.com/photo/bedroom-interior-setup-271624/
+https://www.pexels.com/photo/photograph-of-bedroom-interior-1571450/
+https://www.pexels.com/photo/white-wooden-shelf-beside-bed-2062431/
+https://www.pexels.com/photo/black-laptop-placed-on-table-271618/
+https://www.pexels.com/photo/open-room-curtain-276671/
+https://www.pexels.com/photo/bedroom-area-with-no-people-inside-building-2082087/
+https://www.pexels.com/photo/purple-blanket-1743231/
+https://www.pexels.com/photo/rolling-chair-in-front-of-desk-beside-bed-271695/
+
+living room - download and rename as living1, living2,...
+-----------
+https://www.pexels.com/photo/photo-of-living-room-1457842/
+https://www.pexels.com/photo/flat-screen-tv-1571458/
+https://www.pexels.com/photo/interior-design-of-home-1643383/
+https://www.pexels.com/photo/interior-design-of-a-house-1571460/
+https://www.pexels.com/photo/green-2-seat-sofa-1918291/
+https://www.pexels.com/photo/three-gray-ornaments-on-white-wooden-desk-inside-living-room-1571470/
+https://www.pexels.com/photo/photo-of-living-room-3209045/
+https://www.pexels.com/photo/sofa-chairs-in-living-room-1648776/
+https://www.pexels.com/photo/photo-of-living-room-1743227/
+https://www.pexels.com/photo/black-fabric-sectional-sofa-near-glass-window-276583/
+https://www.pexels.com/photo/brown-fabric-sectional-sofa-275484/
+https://www.pexels.com/photo/flat-screen-television-1827054/
+https://www.pexels.com/photo/turned-off-flat-screen-tv-276724/
+https://www.pexels.com/photo/floor-lamp-beside-sofa-and-window-1571471/
+https://www.pexels.com/photo/living-room-area-2988860/
+https://www.pexels.com/photo/living-room-3797991/
+
+house front - download and rename as front1,front2,...
+-----------
+https://www.pexels.com/photo/house-lights-turned-on-106399/
+https://www.pexels.com/photo/beige-bungalow-house-259588/
+https://www.pexels.com/photo/lighted-beige-house-1396132/
+https://www.pexels.com/photo/white-roll-up-door-277667/
+https://www.pexels.com/photo/white-and-red-wooden-house-with-fence-1029599/
+https://www.pexels.com/photo/white-and-gray-wooden-house-near-grass-field-and-trees-280222/
+https://www.pexels.com/photo/white-concrete-2-storey-house-206172/
+https://www.pexels.com/photo/white-and-brown-concrete-bungalow-under-clear-blue-sky-210617/
+https://www.pexels.com/photo/low-angle-view-of-balcony-against-sky-323775/
+https://www.pexels.com/photo/brown-wall-paint-house-near-at-garden-209315/
+https://www.pexels.com/photo/a-house-with-a-garage-and-driveway-in-front-of-it-27277237/
+https://www.pexels.com/photo/white-and-brown-wooden-house-near-bare-trees-under-white-sky-3935333/
+https://www.pexels.com/photo/exterior-of-modern-house-with-glass-doors-and-panoramic-windows-7031607/
+https://www.pexels.com/photo/black-and-brown-wooden-house-1105754/
+https://www.pexels.com/photo/red-barn-house-2893177/
+https://www.pexels.com/photo/old-building-facade-near-walkway-between-plants-4917105/
+
+website images
+--------------
+about us: https://www.pexels.com/photo/landscape-photography-of-gray-and-brown-2-storey-house-187815/
+	  https://www.pexels.com/photo/white-house-near-green-leafed-trees-434634/
+hero      https://www.pexels.com/photo/couple-walking-towards-their-new-house-8470793/
+	  https://www.pexels.com/photo/a-person-holding-a-key-8293738/
+buy/rent  https://www.pexels.com/photo/a-black-and-white-photo-of-a-building-17722802/
+featured  https://www.pexels.com/photo/white-houses-in-town-in-greece-18774899/
+
+
